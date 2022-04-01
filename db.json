@@ -1,0 +1,125 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "bookname": "Story Telling",
+      "bookCategory": "Kids",
+      "price": "150 Rs."
+    },
+    {
+      "id": 2,
+      "bookname": "Chatrapati Shivaji Maharaj",
+      "bookCategory": "History",
+      "price": "250 Rs."
+    },
+    {
+      "id": 3,
+      "bookname": "Chanakya",
+      "bookCategory": "Sanskrit",
+      "price": "100 Rs."
+    },
+    {
+      "id": 4,
+      "bookname": "Tenali Rama",
+      "bookCategory": "Sanskrit",
+      "price": "150 RS."
+    },
+    {
+      "id": 5,
+      "bookname": "Ramanayan",
+      "bookCategory": "Sanskrit",
+      "price": "200 Rs."
+    },
+    {
+      "id": 6,
+      "bookname": "Robots",
+      "bookCategory": "Sci & Tech",
+      "price": "200 Rs."
+    },
+    {
+      "id": 7,
+      "bookname": "Tropical Forest",
+      "bookCategory": "Geography",
+      "price": "100 Rs."
+    },
+    {
+      "id": 8,
+      "bookname": "Algebra ",
+      "bookCategory": "Maths",
+      "price": "250 Rs."
+    },
+    {
+      "id": 9,
+      "bookname": "Geometry",
+      "bookCategory": "Maths",
+      "price": "150 Rs."
+    },
+    {
+      "id": 10,
+      "bookname": "Nursuery Rhymes",
+      "bookCategory": "Kids",
+      "price": "100 Rs."
+    },
+    {
+      "id": 11,
+      "bookname": "Cyber Security",
+      "bookCategory": "IT",
+      "price": "400 Rs."
+    }
+    
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Shubham Ghadi",
+      "email": "shubhamghadi673@gmail.com",
+      "password": "240109smg",
+      "mobile": 9867098961,
+      "id": 1
+    },
+    {
+      "fullname": "Omkar Hande",
+      "email": "omkarhande@gmail.com",
+      "password": "123456",
+      "mobile": 1234567890,
+      "id": 2
+    },
+    {
+      "fullname": "Nachiket Kulawade",
+      "email": "nachiketkulawade@gmail.com",
+      "password": "12345678",
+      "mobile": 1234567890,
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 5
+    },
+    {
+      "fullname": "Siddesh",
+      "email": "siddesh@gmail.com",
+      "password": "123456",
+      "mobile": 1234567890,
+      "id": 6
+    },
+    {
+      "fullname": "Siddesh",
+      "email": "siddesh@gmail.com",
+      "password": "123456",
+      "mobile": 1234567890,
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
